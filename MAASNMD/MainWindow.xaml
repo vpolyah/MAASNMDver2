@@ -1,0 +1,127 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"        
+        xmlns:wfi="clr-namespace:System.Windows.Forms.Integration;assembly=WindowsFormsIntegration"
+        xmlns:wf="clr-namespace:System.Windows.Forms;assembly=System.Windows.Forms"
+        xmlns:winformchart="clr-namespace:System.Windows.Forms.DataVisualization.Charting;assembly=System.Windows.Forms.DataVisualization"
+        xmlns:local="clr-namespace:MAASNMD" 
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit" x:Class="MAASNMD.MainWindow" 
+        Title="MainWindow" Height="594.53" Width="1052.052">
+
+
+
+
+    <Grid VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
+        <Border BorderBrush="Black" Grid.Column="0" HorizontalAlignment="Stretch" Height="Auto" VerticalAlignment="Stretch" Margin="0,0,428,0">
+
+            <TabControl x:Name="tabcontrol2" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"  RenderTransformOrigin="0.481,0.52" Margin="1,0,10,0">
+
+                <!--<TabItem x:Name="Big_log" Header="Big log" Margin="-2,0,-1,0">
+                    <TextBox x:Name="infoTextBox1" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Height="Auto" Width="Auto" IsReadOnly="True" VerticalScrollBarVisibility="Visible" TextWrapping="Wrap" FontSize="14" FontFamily="Arial" Margin="0,-5,-3,-1"/>
+                </TabItem>-->
+                <TabItem x:Name="Hand_mode" Header="Ручной режим" Margin="-2,0,-1,0">
+                    <TextBox x:Name="infoTextBox2" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Height="Auto" Width="Auto" IsReadOnly="True" VerticalScrollBarVisibility="Visible" TextWrapping="Wrap" FontSize="14" FontFamily="Arial" Margin="0,-5,-3,-1"/>
+                </TabItem>
+                <TabItem x:Name="Mini_log" Header="Результаты оптимизации" Margin="-2,0,-1,0">
+                    <TextBox x:Name="infoTextBox" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Height="Auto" Width="Auto" IsReadOnly="True" VerticalScrollBarVisibility="Visible" TextWrapping="Wrap" FontSize="14" FontFamily="Arial" Margin="0,-5,-4,-1"/>
+                </TabItem>
+                <TabItem x:Name="SearchResults" Header="Результаты в таблице" Margin="-2,0,-1,0">
+                    <DataGrid x:Name="Gd" AutoGenerateColumns="true">
+                        <!--<DataGrid.Columns>
+
+                            <DataGridTextColumn Header="Name" Binding="{Binding Name}" />
+
+                            <DataGridTemplateColumn Header="Birthday">
+                                <DataGridTemplateColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <DatePicker SelectedDate="{Binding Birthday}" BorderThickness="0" />
+                                    </DataTemplate>
+                                </DataGridTemplateColumn.CellTemplate>
+                            </DataGridTemplateColumn>
+
+                        </DataGrid.Columns>-->
+                    </DataGrid>
+                    <!--<DataGridTextColumn Header="Модель" Binding="{Binding Path=Title}" Width="90" />-->
+
+                </TabItem>
+            </TabControl>
+
+
+        </Border>
+        <Border HorizontalAlignment="Right" Height="Auto" VerticalAlignment="Stretch" Width="342" Margin="0,0,0,0"  >
+            <Grid HorizontalAlignment="Right" Width="419" Margin="-87,10,10,0">
+                <GroupBox x:Name="groupBox1" Header="Экспериментальные данные" HorizontalAlignment="Left" Height="75"  VerticalAlignment="Top" Width="171" Margin="36,10,0,0">
+                    <Grid>
+                        <Button x:Name="openData" Content="Открыть" HorizontalAlignment="Left" Height="25" Margin="39,10,0,0" VerticalAlignment="Top" Width="56" Click="openData_Click"/>
+
+
+                    </Grid>
+                </GroupBox>
+                <GroupBox x:Name="groupBox2" Header="Полином" HorizontalAlignment="Left" Height="75" VerticalAlignment="Top" Width="152" Margin="215,10,0,0">
+                    <Grid Margin="0,0,-2,0">
+                        <Label Content="Степень:" HorizontalAlignment="Left" Margin="25,10,0,0" VerticalAlignment="Top" Height="25"/>
+                        <ComboBox x:Name="polDegreeComboBox" HorizontalAlignment="Left" Height="25" Margin="82,10,0,0" VerticalAlignment="Top" Width="35" SelectionChanged="polDegreeComboBox_SelectionChanged">
+                            <ComboBoxItem Content="1"/>
+                            <ComboBoxItem Content="2"/>
+                            <ComboBoxItem Content="3"/>
+                            <ComboBoxItem Content="4"/>
+                            <ComboBoxItem Content="5"/>
+                            <ComboBoxItem Content="6"/>
+                            <ComboBoxItem Content="7"/>
+                            <ComboBoxItem Content="8"/>
+                            <ComboBoxItem Content="9"/>
+                        </ComboBox>
+                        <!--  <TextBox IsEnabled="False" Name="coeffB" HorizontalAlignment="Left" Height="25" Margin="10,70,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="149"/>
+                        <Button IsEnabled="False" Name="addCoeff" Content="Добавить" HorizontalAlignment="Left" Height="25" Margin="165,70,0,0" VerticalAlignment="Top" Width="62" Click="addCoeff_Click" />
+                        <Button IsEnabled="False" Name="delCoeff" Content="Удалить" HorizontalAlignment="Left" Height="25" Margin="232,70,0,0" VerticalAlignment="Top" Width="62" Click="delCoeff_Click" />
+                        <Label IsEnabled="False" Content="Введите коэффициент для удаления/добавления" HorizontalAlignment="Left" Margin="10,40,0,0" VerticalAlignment="Top" Height="25"/> -->
+                    </Grid>
+                </GroupBox>
+                <!-- <GroupBox IsEnabled="False" Name="groupBox3" Header="Система линейных уравнений" HorizontalAlignment="Left" Height="64" VerticalAlignment="Top" Width="316" Margin="-3,244,0,0">
+                    <Grid>
+                        <Button Name="showSOLE" Content="Вывести" HorizontalAlignment="Left" Height="25" Margin="215,10,0,0" VerticalAlignment="Top" Width="81" Click="showSOLE_Click"/>
+
+
+                    </Grid>
+                </GroupBox>
+                -->
+
+                <Button Content="Оптимизация полинома" HorizontalAlignment="Left" Margin="225,117,0,0" VerticalAlignment="Top" Width="142" Click="Button_Click" RenderTransformOrigin="1.058,0.667"/>
+                <GroupBox x:Name="groupBox4_Copy" Header="Границы точности" HorizontalAlignment="Left" Height="65" VerticalAlignment="Top" Width="171" Margin="36,90,0,0">
+                    <Grid/>
+                </GroupBox>
+                <xctk:DoubleUpDown Name="AccuracyDown" HorizontalAlignment="Left" Margin="69,120,0,0" VerticalAlignment="Top" DisplayDefaultValueOnEmptyText="True" DefaultValue="0.005" Increment="0.001" ForceCursor="True" Minimum="0" Maximum="1"/>
+                <xctk:DoubleUpDown Name="AccuracyUp" HorizontalAlignment="Left" Margin="143,121,0,0" VerticalAlignment="Top" DefaultValue="0.1" RenderTransformOrigin="0.5,0.5" Width="55" Increment="0.001" DisplayDefaultValueOnEmptyText="True">
+                    <xctk:DoubleUpDown.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="0.649"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </xctk:DoubleUpDown.RenderTransform>
+                </xctk:DoubleUpDown>
+                <Label Content="от:" HorizontalAlignment="Left" Margin="41,117,0,0" VerticalAlignment="Top"/>
+                <Label Content="до:" HorizontalAlignment="Left" Margin="120,117,0,0" VerticalAlignment="Top" Width="29"/>
+                <TextBox Name="textbox_1" HorizontalAlignment="Left" Height="40" Margin="10,241,0,0" TextWrapping="Wrap" Text="Вариант неполного полинома №1" VerticalAlignment="Top" Width="399" Background="#FF76CBDE"/>
+                <Button Name="Hand_regress" Content="Коэффициенты регрессии" HorizontalAlignment="Left" Margin="132,286,0,0" VerticalAlignment="Top" Width="152" Height="26" Click="Hand_regress_Click"/>
+                <Label Content="Ручной режим" HorizontalAlignment="Left" Margin="151,209,0,0" VerticalAlignment="Top" Height="27" Width="116" FontFamily="Times New Roman" FontStyle="Italic" FontSize="16">
+                    <Label.Background>
+                        <ImageBrush/>
+                    </Label.Background>
+                </Label>
+                <Button Content="To Excel" Name="ToExcel" HorizontalAlignment="Left" Margin="282,439,0,0" VerticalAlignment="Top" Width="99" Height="26" Click="ToExcel_Click"/>
+                <ProgressBar Name="pbar" HorizontalAlignment="Left" Height="21" Margin="36,183,0,0" VerticalAlignment="Top" Width="331"/>
+                <Label Content="Процесс оптимизации" HorizontalAlignment="Left" Margin="36,160,0,0" VerticalAlignment="Top" Width="129"/>
+
+
+
+
+
+            </Grid>
+        </Border>
+
+
+
+    </Grid>
+</Window>

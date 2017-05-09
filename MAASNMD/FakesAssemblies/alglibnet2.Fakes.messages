@@ -1,0 +1,14 @@
+C:\Users\silve\Desktop\MAASNMDver2\MAASNMD\Fakes\alglibnet2.fakes : warning : Cannot generate stub for <PrivateImplementationDetails>{0A472193-572A-461E-83A6-61DC1BF4E4DA}: type is not supported because of internal limitations.
+C:\Users\silve\Desktop\MAASNMDver2\MAASNMD\Fakes\alglibnet2.fakes : warning : Cannot generate shim for alglib+integrator1_func: type is a delegate.
+C:\Users\silve\Desktop\MAASNMDver2\MAASNMD\Fakes\alglibnet2.fakes : warning : Cannot generate shim for alglib+ndimensional_func: type is a delegate.
+C:\Users\silve\Desktop\MAASNMDver2\MAASNMD\Fakes\alglibnet2.fakes : warning : Cannot generate shim for alglib+ndimensional_fvec: type is a delegate.
+C:\Users\silve\Desktop\MAASNMDver2\MAASNMD\Fakes\alglibnet2.fakes : warning : Cannot generate shim for alglib+ndimensional_grad: type is a delegate.
+C:\Users\silve\Desktop\MAASNMDver2\MAASNMD\Fakes\alglibnet2.fakes : warning : Cannot generate shim for alglib+ndimensional_hess: type is a delegate.
+C:\Users\silve\Desktop\MAASNMDver2\MAASNMD\Fakes\alglibnet2.fakes : warning : Cannot generate shim for alglib+ndimensional_jac: type is a delegate.
+C:\Users\silve\Desktop\MAASNMDver2\MAASNMD\Fakes\alglibnet2.fakes : warning : Cannot generate shim for alglib+ndimensional_ode_rp: type is a delegate.
+C:\Users\silve\Desktop\MAASNMDver2\MAASNMD\Fakes\alglibnet2.fakes : warning : Cannot generate shim for alglib+ndimensional_pfunc: type is a delegate.
+C:\Users\silve\Desktop\MAASNMDver2\MAASNMD\Fakes\alglibnet2.fakes : warning : Cannot generate shim for alglib+ndimensional_pgrad: type is a delegate.
+C:\Users\silve\Desktop\MAASNMDver2\MAASNMD\Fakes\alglibnet2.fakes : warning : Cannot generate shim for alglib+ndimensional_phess: type is a delegate.
+C:\Users\silve\Desktop\MAASNMDver2\MAASNMD\Fakes\alglibnet2.fakes : warning : Cannot generate shim for alglib+ndimensional_rep: type is a delegate.
+C:\Users\silve\Desktop\MAASNMDver2\MAASNMD\Fakes\alglibnet2.fakes : warning : Cannot generate shim for alglib+serializer+SMODE: type is an enum.
+C:\Users\silve\Desktop\MAASNMDver2\MAASNMD\Fakes\alglibnet2.fakes : warning : Cannot generate shim for <PrivateImplementationDetails>{0A472193-572A-461E-83A6-61DC1BF4E4DA}: type is not supported because of internal limitations.

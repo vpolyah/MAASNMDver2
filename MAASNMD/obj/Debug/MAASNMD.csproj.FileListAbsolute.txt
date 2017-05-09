@@ -1,0 +1,187 @@
+C:\Users\Виктор\Desktop\Прога по диссертации\Тест WPF\MAASNMD\MAASNMD\bin\Debug\MAASNMD.exe.config
+C:\Users\Виктор\Desktop\Прога по диссертации\Тест WPF\MAASNMD\MAASNMD\bin\Debug\MAASNMD.exe
+C:\Users\Виктор\Desktop\Прога по диссертации\Тест WPF\MAASNMD\MAASNMD\bin\Debug\MAASNMD.pdb
+C:\Users\Виктор\Desktop\Прога по диссертации\Тест WPF\MAASNMD\MAASNMD\obj\Debug\MAASNMD.csprojResolveAssemblyReference.cache
+C:\Users\Виктор\Desktop\Прога по диссертации\Тест WPF\MAASNMD\MAASNMD\obj\Debug\MainWindow.baml
+C:\Users\Виктор\Desktop\Прога по диссертации\Тест WPF\MAASNMD\MAASNMD\obj\Debug\MainWindow.g.cs
+C:\Users\Виктор\Desktop\Прога по диссертации\Тест WPF\MAASNMD\MAASNMD\obj\Debug\App.g.cs
+C:\Users\Виктор\Desktop\Прога по диссертации\Тест WPF\MAASNMD\MAASNMD\obj\Debug\MAASNMD_MarkupCompile.cache
+C:\Users\Виктор\Desktop\Прога по диссертации\Тест WPF\MAASNMD\MAASNMD\obj\Debug\MAASNMD.g.resources
+C:\Users\Виктор\Desktop\Прога по диссертации\Тест WPF\MAASNMD\MAASNMD\obj\Debug\MAASNMD.Properties.Resources.resources
+C:\Users\Виктор\Desktop\Прога по диссертации\Тест WPF\MAASNMD\MAASNMD\obj\Debug\MAASNMD.csproj.GenerateResource.Cache
+C:\Users\Виктор\Desktop\Прога по диссертации\Тест WPF\MAASNMD\MAASNMD\obj\Debug\MAASNMD.exe
+C:\Users\Виктор\Desktop\Прога по диссертации\Тест WPF\MAASNMD\MAASNMD\obj\Debug\MAASNMD.pdb
+C:\Users\Виктор\Desktop\Прога по диссертации\Тест WPF\MAASNMD\MAASNMD\bin\Debug\Microsoft.Owin.dll
+C:\Users\Виктор\Desktop\Прога по диссертации\Тест WPF\MAASNMD\MAASNMD\bin\Debug\Owin.dll
+C:\Users\Виктор\Desktop\Прога по диссертации\Тест WPF\MAASNMD\MAASNMD\bin\Debug\Microsoft.Owin.xml
+C:\Users\Виктор\Dropbox\MAASNMD\MAASNMDver2\MAASNMD\bin\Debug\MAASNMD.exe.config
+C:\Users\Виктор\Dropbox\MAASNMD\MAASNMDver2\MAASNMD\obj\Debug\MAASNMD.exe
+C:\Users\Виктор\Dropbox\MAASNMD\MAASNMDver2\MAASNMD\obj\Debug\MAASNMD.pdb
+C:\Users\Виктор\Dropbox\MAASNMD\MAASNMDver2\MAASNMD\obj\Debug\MAASNMD.csprojResolveAssemblyReference.cache
+C:\Users\Виктор\Dropbox\MAASNMD\MAASNMDver2\MAASNMD\obj\Debug\MainWindow.baml
+C:\Users\Виктор\Dropbox\MAASNMD\MAASNMDver2\MAASNMD\obj\Debug\MainWindow.g.cs
+C:\Users\Виктор\Dropbox\MAASNMD\MAASNMDver2\MAASNMD\obj\Debug\App.g.cs
+C:\Users\Виктор\Dropbox\MAASNMD\MAASNMDver2\MAASNMD\obj\Debug\MAASNMD_MarkupCompile.cache
+C:\Users\Виктор\Dropbox\MAASNMD\MAASNMDver2\MAASNMD\obj\Debug\MAASNMD.g.resources
+C:\Users\Виктор\Dropbox\MAASNMD\MAASNMDver2\MAASNMD\obj\Debug\MAASNMD.Properties.Resources.resources
+C:\Users\Виктор\Dropbox\MAASNMD\MAASNMDver2\MAASNMD\obj\Debug\MAASNMD.csproj.GenerateResource.Cache
+C:\Users\Виктор\Dropbox\MAASNMD\MAASNMDver2\MAASNMD\bin\Debug\MAASNMD.exe
+C:\Users\Виктор\Dropbox\MAASNMD\MAASNMDver2\MAASNMD\bin\Debug\MAASNMD.pdb
+C:\Users\Виктор\Dropbox\MAASNMD\MAASNMDver2\MAASNMD\bin\Debug\Microsoft.Owin.dll
+C:\Users\Виктор\Dropbox\MAASNMD\MAASNMDver2\MAASNMD\bin\Debug\Owin.dll
+C:\Users\Виктор\Dropbox\MAASNMD\MAASNMDver2\MAASNMD\bin\Debug\Microsoft.Owin.xml
+C:\Users\Orhan\Dropbox\MAASNMD\MAASNMDver2\MAASNMD\bin\Debug\MAASNMD.exe.config
+C:\Users\Orhan\Dropbox\MAASNMD\MAASNMDver2\MAASNMD\obj\Debug\MAASNMD.exe
+C:\Users\Orhan\Dropbox\MAASNMD\MAASNMDver2\MAASNMD\obj\Debug\MAASNMD.pdb
+C:\Users\Orhan\Dropbox\MAASNMD\MAASNMDver2\MAASNMD\bin\Debug\MAASNMD.exe
+C:\Users\Orhan\Dropbox\MAASNMD\MAASNMDver2\MAASNMD\bin\Debug\MAASNMD.pdb
+C:\Users\Orhan\Dropbox\MAASNMD\MAASNMDver2\MAASNMD\bin\Debug\Microsoft.Owin.dll
+C:\Users\Orhan\Dropbox\MAASNMD\MAASNMDver2\MAASNMD\bin\Debug\Owin.dll
+C:\Users\Orhan\Dropbox\MAASNMD\MAASNMDver2\MAASNMD\bin\Debug\Microsoft.Owin.xml
+C:\Users\Orhan\Dropbox\MAASNMD\MAASNMDver2\MAASNMD\obj\Debug\MAASNMD.csprojResolveAssemblyReference.cache
+C:\Users\Orhan\Dropbox\MAASNMD\MAASNMDver2\MAASNMD\obj\Debug\MainWindow.baml
+C:\Users\Orhan\Dropbox\MAASNMD\MAASNMDver2\MAASNMD\obj\Debug\MainWindow.g.cs
+C:\Users\Orhan\Dropbox\MAASNMD\MAASNMDver2\MAASNMD\obj\Debug\App.g.cs
+C:\Users\Orhan\Dropbox\MAASNMD\MAASNMDver2\MAASNMD\obj\Debug\MAASNMD_MarkupCompile.cache
+C:\Users\Orhan\Dropbox\MAASNMD\MAASNMDver2\MAASNMD\obj\Debug\MAASNMD.g.resources
+C:\Users\Orhan\Dropbox\MAASNMD\MAASNMDver2\MAASNMD\obj\Debug\MAASNMD.Properties.Resources.resources
+C:\Users\Orhan\Dropbox\MAASNMD\MAASNMDver2\MAASNMD\obj\Debug\MAASNMD.csproj.GenerateResource.Cache
+C:\Users\silve\Desktop\MAASNMDver2\MAASNMD\bin\Debug\MAASNMD.exe.config
+C:\Users\silve\Desktop\MAASNMDver2\MAASNMD\obj\Debug\MAASNMD.exe
+C:\Users\silve\Desktop\MAASNMDver2\MAASNMD\obj\Debug\MAASNMD.pdb
+E:\MAASNMDver2\MAASNMD\bin\Debug\MAASNMD.exe.config
+E:\MAASNMDver2\MAASNMD\obj\Debug\MAASNMD.exe
+E:\MAASNMDver2\MAASNMD\obj\Debug\MAASNMD.pdb
+E:\MAASNMDver2\MAASNMD\bin\Debug\MAASNMD.exe
+E:\MAASNMDver2\MAASNMD\bin\Debug\MAASNMD.pdb
+E:\MAASNMDver2\MAASNMD\bin\Debug\Microsoft.Owin.dll
+E:\MAASNMDver2\MAASNMD\bin\Debug\Owin.dll
+E:\MAASNMDver2\MAASNMD\bin\Debug\Microsoft.Owin.xml
+E:\MAASNMDver2\MAASNMD\obj\Debug\MAASNMD.csprojResolveAssemblyReference.cache
+E:\MAASNMDver2\MAASNMD\obj\Debug\MainWindow.baml
+E:\MAASNMDver2\MAASNMD\obj\Debug\MainWindow.g.cs
+E:\MAASNMDver2\MAASNMD\obj\Debug\App.g.cs
+E:\MAASNMDver2\MAASNMD\obj\Debug\MAASNMD_MarkupCompile.cache
+E:\MAASNMDver2\MAASNMD\obj\Debug\MAASNMD.g.resources
+E:\MAASNMDver2\MAASNMD\obj\Debug\MAASNMD.Properties.Resources.resources
+E:\MAASNMDver2\MAASNMD\obj\Debug\MAASNMD.csproj.GenerateResource.Cache
+G:\MAASNMDver2\MAASNMD\bin\Debug\MAASNMD.exe.config
+G:\MAASNMDver2\MAASNMD\obj\Debug\MAASNMD.exe
+G:\MAASNMDver2\MAASNMD\obj\Debug\MAASNMD.pdb
+G:\MAASNMDver2\MAASNMD\bin\Debug\MAASNMD.exe
+G:\MAASNMDver2\MAASNMD\bin\Debug\MAASNMD.pdb
+G:\MAASNMDver2\MAASNMD\bin\Debug\Microsoft.Owin.dll
+G:\MAASNMDver2\MAASNMD\bin\Debug\Owin.dll
+G:\MAASNMDver2\MAASNMD\bin\Debug\Microsoft.Owin.xml
+G:\MAASNMDver2\MAASNMD\obj\Debug\MAASNMD.csprojResolveAssemblyReference.cache
+G:\MAASNMDver2\MAASNMD\obj\Debug\MainWindow.baml
+G:\MAASNMDver2\MAASNMD\obj\Debug\MainWindow.g.cs
+G:\MAASNMDver2\MAASNMD\obj\Debug\App.g.cs
+G:\MAASNMDver2\MAASNMD\obj\Debug\MAASNMD_MarkupCompile.cache
+G:\MAASNMDver2\MAASNMD\obj\Debug\MAASNMD.g.resources
+G:\MAASNMDver2\MAASNMD\obj\Debug\MAASNMD.Properties.Resources.resources
+G:\MAASNMDver2\MAASNMD\obj\Debug\MAASNMD.csproj.GenerateResource.Cache
+E:\MAASNMDver2\MAASNMD\obj\Debug\MAASNMD_MarkupCompile.lref
+C:\Users\Виктор\Desktop\MAASNMDver2\MAASNMD\bin\Debug\MAASNMD.exe.config
+C:\Users\Виктор\Desktop\MAASNMDver2\MAASNMD\obj\Debug\MAASNMD.exe
+C:\Users\Виктор\Desktop\MAASNMDver2\MAASNMD\obj\Debug\MAASNMD.pdb
+C:\Users\Виктор\Desktop\MAASNMDver2\MAASNMD\obj\Debug\MAASNMD.csprojResolveAssemblyReference.cache
+C:\Users\Виктор\Desktop\MAASNMDver2\MAASNMD\obj\Debug\MainWindow.g.cs
+C:\Users\Виктор\Desktop\MAASNMDver2\MAASNMD\obj\Debug\App.g.cs
+C:\Users\Виктор\Desktop\MAASNMDver2\MAASNMD\obj\Debug\MAASNMD_MarkupCompile.cache
+C:\Users\Виктор\Desktop\MAASNMDver2\MAASNMD\obj\Debug\MAASNMD_MarkupCompile.lref
+C:\Users\Виктор\Desktop\MAASNMDver2\MAASNMD\bin\Debug\MAASNMD.exe
+C:\Users\Виктор\Desktop\MAASNMDver2\MAASNMD\bin\Debug\MAASNMD.pdb
+C:\Users\Виктор\Desktop\MAASNMDver2\MAASNMD\bin\Debug\Microsoft.Owin.dll
+C:\Users\Виктор\Desktop\MAASNMDver2\MAASNMD\bin\Debug\Owin.dll
+C:\Users\Виктор\Desktop\MAASNMDver2\MAASNMD\bin\Debug\Microsoft.Owin.xml
+C:\Users\Виктор\Desktop\MAASNMDver2\MAASNMD\obj\Debug\MainWindow.baml
+C:\Users\Виктор\Desktop\MAASNMDver2\MAASNMD\obj\Debug\MAASNMD.g.resources
+C:\Users\Виктор\Desktop\MAASNMDver2\MAASNMD\obj\Debug\MAASNMD.Properties.Resources.resources
+C:\Users\Виктор\Desktop\MAASNMDver2\MAASNMD\obj\Debug\MAASNMD.csproj.GenerateResource.Cache
+C:\Users\silve\Desktop\MAASNMDver2\MAASNMD\bin\Debug\MAASNMD.exe
+C:\Users\silve\Desktop\MAASNMDver2\MAASNMD\bin\Debug\MAASNMD.pdb
+C:\Users\silve\Desktop\MAASNMDver2\MAASNMD\bin\Debug\Microsoft.Owin.dll
+C:\Users\silve\Desktop\MAASNMDver2\MAASNMD\bin\Debug\Owin.dll
+C:\Users\silve\Desktop\MAASNMDver2\MAASNMD\bin\Debug\Microsoft.Owin.xml
+C:\Users\silve\Desktop\MAASNMDver2\MAASNMD\obj\Debug\MainWindow.g.cs
+C:\Users\silve\Desktop\MAASNMDver2\MAASNMD\obj\Debug\App.g.cs
+C:\Users\silve\Desktop\MAASNMDver2\MAASNMD\obj\Debug\MAASNMD_MarkupCompile.cache
+C:\Users\silve\Desktop\MAASNMDver2\MAASNMD\obj\Debug\MAASNMD_MarkupCompile.lref
+C:\Users\silve\Desktop\MAASNMDver2\MAASNMD\obj\Debug\MainWindow.baml
+C:\Users\silve\Desktop\MAASNMDver2\MAASNMD\obj\Debug\MAASNMD.g.resources
+C:\Users\silve\Desktop\MAASNMDver2\MAASNMD\obj\Debug\MAASNMD.Properties.Resources.resources
+C:\Users\silve\Desktop\MAASNMDver2\MAASNMD\obj\Debug\MAASNMD.csproj.GenerateResource.Cache
+C:\Users\silve\Desktop\MAASNMDver2\MAASNMD\bin\Debug\alglibnet2.dll
+C:\Users\silve\Desktop\MAASNMDver2\MAASNMD\bin\Debug\alglibnet2.Fakes.dll
+C:\Users\silve\Desktop\MAASNMDver2\MAASNMD\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\silve\Desktop\MAASNMDver2\MAASNMD\bin\Debug\alglibnet2.Fakes.xml
+C:\Users\silve\Desktop\MAASNMDver2\MAASNMD\obj\Debug\MAASNMD.csprojFakesResolveAssemblyReference.cache
+C:\Users\Robot\Desktop\MAASNMDver2\MAASNMD\bin\Debug\MAASNMD.exe.config
+C:\Users\Robot\Desktop\MAASNMDver2\MAASNMD\obj\Debug\MAASNMD.exe
+C:\Users\Robot\Desktop\MAASNMDver2\MAASNMD\obj\Debug\MAASNMD.pdb
+C:\Users\Robot\Desktop\MAASNMDver2\MAASNMD\obj\Debug\MAASNMD.csprojResolveAssemblyReference.cache
+C:\Users\Robot\Desktop\MAASNMDver2\MAASNMD\obj\Debug\MainWindow.g.cs
+C:\Users\Robot\Desktop\MAASNMDver2\MAASNMD\obj\Debug\App.g.cs
+C:\Users\Robot\Desktop\MAASNMDver2\MAASNMD\obj\Debug\MAASNMD_MarkupCompile.cache
+C:\Users\Robot\Desktop\MAASNMDver2\MAASNMD\obj\Debug\MAASNMD_MarkupCompile.lref
+C:\Users\Robot\Desktop\MAASNMDver2\MAASNMD\bin\Debug\MAASNMD.exe
+C:\Users\Robot\Desktop\MAASNMDver2\MAASNMD\bin\Debug\MAASNMD.pdb
+C:\Users\Robot\Desktop\MAASNMDver2\MAASNMD\bin\Debug\alglibnet2.dll
+C:\Users\Robot\Desktop\MAASNMDver2\MAASNMD\bin\Debug\alglibnet2.Fakes.dll
+C:\Users\Robot\Desktop\MAASNMDver2\MAASNMD\bin\Debug\Microsoft.Owin.dll
+C:\Users\Robot\Desktop\MAASNMDver2\MAASNMD\bin\Debug\Owin.dll
+C:\Users\Robot\Desktop\MAASNMDver2\MAASNMD\bin\Debug\alglibnet2.Fakes.xml
+C:\Users\Robot\Desktop\MAASNMDver2\MAASNMD\bin\Debug\Microsoft.Owin.xml
+C:\Users\Robot\Desktop\MAASNMDver2\MAASNMD\obj\Debug\MainWindow.baml
+C:\Users\Robot\Desktop\MAASNMDver2\MAASNMD\obj\Debug\MAASNMD.g.resources
+C:\Users\Robot\Desktop\MAASNMDver2\MAASNMD\obj\Debug\MAASNMD.Properties.Resources.resources
+C:\Users\Robot\Desktop\MAASNMDver2\MAASNMD\obj\Debug\MAASNMD.csproj.GenerateResource.Cache
+E:\MAASNMDver2\MAASNMD\bin\Debug\alglibnet2.dll
+E:\MAASNMDver2\MAASNMD\bin\Debug\alglibnet2.Fakes.dll
+E:\MAASNMDver2\MAASNMD\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\MAASNMDver2\MAASNMD\bin\Debug\alglibnet2.Fakes.xml
+E:\MAASNMDver2\MAASNMD\obj\Debug\MAASNMD.csprojFakesResolveAssemblyReference.cache
+C:\Users\Виктор\Desktop\MAASNMDver2\MAASNMD\bin\Debug\alglibnet2.dll
+C:\Users\Виктор\Desktop\MAASNMDver2\MAASNMD\bin\Debug\alglibnet2.Fakes.dll
+C:\Users\Виктор\Desktop\MAASNMDver2\MAASNMD\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Виктор\Desktop\MAASNMDver2\MAASNMD\bin\Debug\alglibnet2.Fakes.xml
+C:\Users\Виктор\Desktop\MAASNMDver2\MAASNMD\obj\Debug\MAASNMD.csprojFakesResolveAssemblyReference.cache
+C:\Users\Виктор\Desktop\Наука\Аппроксимация 2017\MAASNMDver2\MAASNMD\bin\Debug\MAASNMD.exe.config
+C:\Users\Виктор\Desktop\Наука\Аппроксимация 2017\MAASNMDver2\MAASNMD\obj\Debug\MAASNMD.exe
+C:\Users\Виктор\Desktop\Наука\Аппроксимация 2017\MAASNMDver2\MAASNMD\obj\Debug\MAASNMD.pdb
+C:\Users\Виктор\Desktop\Наука\Аппроксимация 2017\MAASNMDver2\MAASNMD\bin\Debug\MAASNMD.exe
+C:\Users\Виктор\Desktop\Наука\Аппроксимация 2017\MAASNMDver2\MAASNMD\bin\Debug\MAASNMD.pdb
+C:\Users\Виктор\Desktop\Наука\Аппроксимация 2017\MAASNMDver2\MAASNMD\bin\Debug\alglibnet2.dll
+C:\Users\Виктор\Desktop\Наука\Аппроксимация 2017\MAASNMDver2\MAASNMD\bin\Debug\alglibnet2.Fakes.dll
+C:\Users\Виктор\Desktop\Наука\Аппроксимация 2017\MAASNMDver2\MAASNMD\bin\Debug\Microsoft.Owin.dll
+C:\Users\Виктор\Desktop\Наука\Аппроксимация 2017\MAASNMDver2\MAASNMD\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Виктор\Desktop\Наука\Аппроксимация 2017\MAASNMDver2\MAASNMD\bin\Debug\Owin.dll
+C:\Users\Виктор\Desktop\Наука\Аппроксимация 2017\MAASNMDver2\MAASNMD\bin\Debug\alglibnet2.Fakes.xml
+C:\Users\Виктор\Desktop\Наука\Аппроксимация 2017\MAASNMDver2\MAASNMD\bin\Debug\Microsoft.Owin.xml
+C:\Users\Виктор\Desktop\Наука\Аппроксимация 2017\MAASNMDver2\MAASNMD\obj\Debug\MAASNMD.csprojFakesResolveAssemblyReference.cache
+C:\Users\Виктор\Desktop\Наука\Аппроксимация 2017\MAASNMDver2\MAASNMD\obj\Debug\MAASNMD.csprojResolveAssemblyReference.cache
+C:\Users\Виктор\Desktop\Наука\Аппроксимация 2017\MAASNMDver2\MAASNMD\obj\Debug\MainWindow.g.cs
+C:\Users\Виктор\Desktop\Наука\Аппроксимация 2017\MAASNMDver2\MAASNMD\obj\Debug\App.g.cs
+C:\Users\Виктор\Desktop\Наука\Аппроксимация 2017\MAASNMDver2\MAASNMD\obj\Debug\MAASNMD_MarkupCompile.cache
+C:\Users\Виктор\Desktop\Наука\Аппроксимация 2017\MAASNMDver2\MAASNMD\obj\Debug\MAASNMD_MarkupCompile.lref
+C:\Users\Виктор\Desktop\Наука\Аппроксимация 2017\MAASNMDver2\MAASNMD\obj\Debug\MainWindow.baml
+C:\Users\Виктор\Desktop\Наука\Аппроксимация 2017\MAASNMDver2\MAASNMD\obj\Debug\MAASNMD.g.resources
+C:\Users\Виктор\Desktop\Наука\Аппроксимация 2017\MAASNMDver2\MAASNMD\obj\Debug\MAASNMD.Properties.Resources.resources
+C:\Users\Виктор\Desktop\Наука\Аппроксимация 2017\MAASNMDver2\MAASNMD\obj\Debug\MAASNMD.csproj.GenerateResource.Cache
+C:\Users\Виктор\Desktop\MAASNMDver2\MAASNMD\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Виктор\Desktop\MAASNMDver2\MAASNMD\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Виктор\Desktop\MAASNMDver2\MAASNMD\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Виктор\Desktop\MAASNMDver2\MAASNMD\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Виктор\Desktop\MAASNMDver2\MAASNMD\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\Виктор\Desktop\MAASNMDver2\MAASNMD\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Виктор\Desktop\MAASNMDver2\MAASNMD\bin\Debug\alglibnet2.Fakes.fakesconfig
+C:\Users\Виктор\Desktop\MAASNMDver2\MAASNMD\bin\Debug\MathNet.Numerics.dll
+C:\Users\Виктор\Desktop\MAASNMDver2\MAASNMD\bin\Debug\MathNet.Numerics.xml
+C:\Users\Виктор\Desktop\MAASNMDver2\MAASNMD\bin\Debug\ClosedXML.dll
+C:\Users\Виктор\Desktop\MAASNMDver2\MAASNMD\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Виктор\Desktop\MAASNMDver2\MAASNMD\bin\Debug\ClosedXML.pdb
+C:\Users\Виктор\Desktop\MAASNMDver2\MAASNMD\bin\Debug\MAASNMD.exe.manifest
+C:\Users\Виктор\Desktop\MAASNMDver2\MAASNMD\bin\Debug\MAASNMD.application
+C:\Users\Виктор\Desktop\MAASNMDver2\MAASNMD\obj\Debug\MAASNMD.exe.manifest
+C:\Users\Виктор\Desktop\MAASNMDver2\MAASNMD\obj\Debug\MAASNMD.application

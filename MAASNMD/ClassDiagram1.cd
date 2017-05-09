@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MAASNMD.LinearRegressionProgram">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAcAAAAAUgCYwCAABSIMIIEIAiAAAAAAAAMAAQAAg=</HashCode>
+      <FileName>LinearRegression.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MAASNMD.MainWindow">
+    <Position X="7.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgEAgAAQAACEAAgAQAAkAAAAIBQgAAAAAAAAUACA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MAASNMD.Global">
+    <Position X="7.75" Y="1.5" Width="1.5" />
+    <InheritanceLine Type="System.Object" ManuallyRouted="true">
+      <Path>
+        <Point X="10.25" Y="1.036" />
+        <Point X="10.25" Y="1.346" />
+        <Point X="8.5" Y="1.346" />
+        <Point X="8.5" Y="1.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAEAAAAEAAAgQIAAAAAEgEAABBAAAQAAAAAAAAAAAQA=</HashCode>
+      <FileName>Global.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MAASNMD.ExperObject">
+    <Position X="5.75" Y="4.25" Width="1.5" />
+    <InheritanceLine Type="System.Object" ManuallyRouted="true">
+      <Path>
+        <Point X="10.25" Y="1.036" />
+        <Point X="10.25" Y="1.357" />
+        <Point X="7.556" Y="1.357" />
+        <Point X="7.556" Y="3.992" />
+        <Point X="6.5" Y="3.992" />
+        <Point X="6.5" Y="4.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAgAAAAAAACAIgCAAAAAAAACAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MAASNMD.ObjectGroup">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <InheritanceLine Type="System.Object" ManuallyRouted="true">
+      <Path>
+        <Point X="10.25" Y="1.036" />
+        <Point X="10.25" Y="1.336" />
+        <Point X="6.5" Y="1.336" />
+        <Point X="6.5" Y="1.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AQAAAAAACAAAAgAAAAAABAAAAAAAAAAQAAAAAAAKAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MAASNMD.Process">
+    <Position X="11.75" Y="0.5" Width="2.25" />
+    <NestedTypes>
+      <Class Name="MAASNMD.Process.CompIndivMaxToMin&lt;M&gt;" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Program.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+      <Class Name="MAASNMD.Process.CompErrorMinToMiax&lt;M&gt;" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Program.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+    </NestedTypes>
+    <InheritanceLine Type="System.Object" ManuallyRouted="true">
+      <Path>
+        <Point X="11" Y="0.768" />
+        <Point X="11.75" Y="0.768" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AGgwQESoAARAACUgSIAZQA0CABgIEAACgAAAIBCUAAI=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="8.25" />
+</ClassDiagram>
